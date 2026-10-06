@@ -73,7 +73,7 @@ Fruit-Catcher/
 
 ## 👨‍💻 My Role
 
-I designed and developed this game on my own during my game development internship at UET Game Studio, including the gameplay, spawning and difficulty scaling, score tracking, UI, sound, and the mobile and desktop layouts.
+I designed and developed this game during my game development internship at UET Game Studio, including the gameplay, spawning and difficulty scaling, score tracking, UI, sound, and the mobile and desktop layouts.
 
 ## 📫 Contact
 
